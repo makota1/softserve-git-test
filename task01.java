@@ -20,8 +20,13 @@ class task01 {
     public String getNick15(){
         return "olexandr256";
     }
+    /*
     public static String getNickName2() {
         return "erro 404";
+    }
+*/
+    public static String getNickName2() {
+        return "MIKIYUR!!!";
     }
 
     public static String getCastenNick() {
