@@ -17,4 +17,7 @@ class task01 {
     public static String getNickName() {
         return "makota";
     }
+    public static String getNickName2() {
+        return "mikiyur";
+    }
 }
