@@ -16,11 +16,14 @@ class task01 {
         System.out.println("Hello I'm " + getCastenNick());
     }
 
-    public String getNick15(){
-        return "olexandr256";
+    public String getNickName(){
+        return "makota";
     }
     public static String getNickName2() {
-        return "user unknown";
+        return "mikiyur";
+    }
+    public String getNickName3 (){
+        return "olexandr256";
     }
 
     public static String getCastenNick() {
