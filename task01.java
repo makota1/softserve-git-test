@@ -13,4 +13,8 @@ class task01 {
         System.out.println("Hello git");
         System.out.println("Hello I'm mikiyur :)");
     }
+
+    public static String getNickName() {
+        return "makota";
+    }
 }
