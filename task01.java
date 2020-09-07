@@ -29,7 +29,7 @@ class task01 {
     }
     /*
     public static String getNickName2() {
-        return "erro 404";
+        return "error 404";
     }
 */
     public static String getNickName2() {
