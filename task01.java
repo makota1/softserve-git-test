@@ -16,6 +16,9 @@ class task01 {
         System.out.println("Hello git");
         List<String> list = new ArrayList<>();
         list.add("string one");
+        System.out.println("Hello I'm mikiyur :)");
+        System.out.println("Hello I'm " + getCastenNick());
+
     }
 
     public String getNick15(){
@@ -24,5 +27,7 @@ class task01 {
     public static String getNickName2() {
         return "user unknown";
     }
-
+    public static String getCastenNick() {
+        return "Casten";
+    }
 }
