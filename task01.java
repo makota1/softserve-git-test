@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class task01 {
     private String name;
 
@@ -11,6 +14,8 @@ class task01 {
 
     public static void main(String[] args) {
         System.out.println("Hello git");
+        List<String> list = new ArrayList<>();
+        list.add("string one");
     }
 
     public String getNick15(){
@@ -19,4 +24,5 @@ class task01 {
     public static String getNickName2() {
         return "user unknown";
     }
+
 }
