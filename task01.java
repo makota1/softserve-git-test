@@ -1,5 +1,6 @@
 class task01 {
-   
+
+    private String group;
     private String name;
 
     public String getName() {
@@ -20,7 +21,7 @@ class task01 {
         return "olexandr256";
     }
     public static String getNickName2() {
-        return "user unknown";
+        return "mikiyur";
     }
 
     public static String getCastenNick() {
@@ -30,4 +31,6 @@ class task01 {
     public static String getNickName3() {
     	return "airetOK";
     }
+
+    // you gonna be fired for writting junk code :)
 }
