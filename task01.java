@@ -26,4 +26,6 @@ class task01 {
     public static String getCastenNick() {
         return "Casten";
     }
+
+    // you gonna be fired for writting junk code :)
 }
