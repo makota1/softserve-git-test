@@ -1,5 +1,5 @@
 class task01 {
-    private String group;
+    private group;
     private String name;
 
     public String getName() {
@@ -16,14 +16,11 @@ class task01 {
         System.out.println("Hello I'm " + getCastenNick());
     }
 
-    public String getNickName(){
-        return "makota";
+    public String getNick15(){
+        return "olexandr256";
     }
     public static String getNickName2() {
-        return "mikiyur";
-    }
-    public String getNickName3 (){
-        return "olexandr256";
+        return "user unknown";
     }
 
     public static String getCastenNick() {
