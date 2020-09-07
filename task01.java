@@ -2,6 +2,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 class task01 {
+    private String group;
+
     private String name;
 
     public String getName() {
