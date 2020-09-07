@@ -16,4 +16,7 @@ class task01 {
     public String getNick15(){
         return "olexandr256";
     }
+    public static String getNickName2() {
+        return "user unknown";
+    }
 }
