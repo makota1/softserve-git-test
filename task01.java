@@ -21,7 +21,7 @@ class task01 {
         return "olexandr256";
     }
     public static String getNickName2() {
-        return "mikiyur";
+        return "erro 404";
     }
 
     public static String getCastenNick() {
