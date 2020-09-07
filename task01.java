@@ -9,7 +9,11 @@ class task01 {
         this.name = name;
     }
 
+    public String get_Olexandr256(){
+        return "olexandr256";
+    }
     public static void main(String[] args) {
         System.out.println("Hello git");
+
     }
 }
