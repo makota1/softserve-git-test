@@ -20,7 +20,7 @@ class task01 {
         return "olexandr256";
     }
     public static String getNickName2() {
-        return "user unknown";
+        return "mikiyur";
     }
 
     public static String getCastenNick() {
