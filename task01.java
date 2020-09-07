@@ -12,4 +12,8 @@ class task01 {
     public static void main(String[] args) {
         System.out.println("Hello git");
     }
+
+    public String getNick15(){
+        return "olexandr256";
+    }
 }
