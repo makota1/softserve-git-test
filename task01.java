@@ -1,5 +1,5 @@
 class task01 {
-    private group;
+    private String group;
     private String name;
 
     public String getName() {
