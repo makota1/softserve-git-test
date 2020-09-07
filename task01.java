@@ -1,5 +1,5 @@
 class task01 {
-    private group;
+   
     private String name;
 
     public String getName() {
@@ -25,5 +25,9 @@ class task01 {
 
     public static String getCastenNick() {
         return "Casten";
+    }
+    
+    public static String getNickName3() {
+    	return "airetOK";
     }
 }
