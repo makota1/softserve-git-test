@@ -18,6 +18,6 @@ class task01 {
         return "makota";
     }
     public static String getNickName2() {
-        return "mikiyur";
+        return "user unknown";
     }
 }
