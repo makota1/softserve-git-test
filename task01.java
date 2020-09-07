@@ -43,6 +43,6 @@ class task01 {
     	return "airetOK";
     }
 
-    // you gonna be fired for writting junk code :)
+    // you gonna be fired for writing junk code :)
     // Yes, I am!!
 }
