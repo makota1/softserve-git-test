@@ -1,6 +1,10 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class task01 {
 
     private String group;
+
     private String name;
 
     public String getName() {
@@ -13,8 +17,11 @@ class task01 {
 
     public static void main(String[] args) {
         System.out.println("Hello git");
+        List<String> list = new ArrayList<>();
+        list.add("string one");
         System.out.println("Hello I'm mikiyur :)");
         System.out.println("Hello I'm " + getCastenNick());
+
     }
 
     public String getNick15(){
@@ -28,7 +35,6 @@ class task01 {
     public static String getNickName2() {
         return "MIKIYUR!!!";
     }
-
     public static String getCastenNick() {
         return "Casten";
     }
