@@ -1,13 +1,13 @@
 class task01 {
-    private group;
-    private String name;
+    private ArayList<String> groupNick;
+    private String nick;
 
-    public String getName() {
-        return name;
+    public String getNick() {
+        return nick;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setNick(String nick) {
+        this.nick = nick;
     }
 
     public static void main(String[] args) {
